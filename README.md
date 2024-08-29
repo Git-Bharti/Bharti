@@ -1,2 +1,2 @@
 # About Me
-### A dedicated Software Developer
+### A dedicated C#. NET Developer
